@@ -4,6 +4,7 @@
 
 ### VsCode ###
 .vscode
+.editorconfig
 
 ### Django ###
 *.log
